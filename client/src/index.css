@@ -8,6 +8,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  /* background: #121212; */
+  overflow-y: auto;
 }
 
 /* dark mode looking scrollbar */
